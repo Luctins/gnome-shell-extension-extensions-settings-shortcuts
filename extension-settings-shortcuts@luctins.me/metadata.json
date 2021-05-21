@@ -1,0 +1,8 @@
+{
+  "name": "Extension Settings Shortcuts",
+  "description": "Automatically creates shortcuts (.desktop files) that show up as individual items on the overview search",
+  "uuid": "extension-settings-shortcuts@luctins.me",
+  "shell-version": [
+    "3.38"
+  ]
+}
